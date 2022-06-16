@@ -4,7 +4,7 @@
   "name": "Stick Crafting",
   "authors": ["Luis Belloch"],
   "description": "Crafting sticks made easy",
-  "version": "1.0.16062022",
+  "version": "1.0.16",
   "dependencies": {
     "game": ""
   }

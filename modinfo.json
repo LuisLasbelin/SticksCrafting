@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "stickscrafting",
+  "name": "Stick Crafting",
+  "authors": ["Luis Belloch"],
+  "description": "Crafting sticks made easy",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": ""
+  }
+}
